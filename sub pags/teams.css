@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Acme & family= Gochi+Hand & family= Josefin+Sans:ital,wght@1,600 & family= Poppins:wght@400; 500;600;700;800 & mostrar=cambiar');
+
+
+body{
+    font-family: 'Acme', sans-serif;
+font-family: 'Gochi Hand', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+    background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.pags{
+    padding: 0 0 100px 0;
+    text-align: center;
+
+}
+.pags h1{
+    margin-bottom: 45px ;
+}
+.pags-content{
+    display: grid;
+
+}
+.pags-txt{
+    padding: 10px 10px 30px 10px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.pags h1{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 25px;
+
+}
+.pags h2{
+    margin-bottom: 45px ;
+}
+.pags h2{
+    font-size: 20px;
+    color: dodgerblue;
+    margin-bottom: 25px;
+}
+.pags-txt p{
+    color: #444444;
+}
+.pags img{
+    width: 270px;
+  border-radius: 20px;
+  margin-right: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+.img{
+    width: 270px;
+  border-radius: 20px;
+  margin-right: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
